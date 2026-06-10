@@ -1,0 +1,80 @@
+{
+  "arima_ALL": {
+    "p": 2,
+    "d": 1,
+    "q": 3,
+    "mape": 21.257
+  },
+  "arima_P001": {
+    "p": 2,
+    "d": 1,
+    "q": 3,
+    "mape": 17.669
+  },
+  "arima_P002": {
+    "p": 2,
+    "d": 1,
+    "q": 3,
+    "mape": 20.847
+  },
+  "arima_P003": {
+    "p": 2,
+    "d": 1,
+    "q": 3,
+    "mape": 18.431
+  },
+  "arima_P004": {
+    "p": 2,
+    "d": 1,
+    "q": 2,
+    "mape": 17.085
+  },
+  "arima_P005": {
+    "p": 2,
+    "d": 1,
+    "q": 2,
+    "mape": 18.69
+  },
+  "xgb_ALL": {
+    "n_estimators": 186,
+    "max_depth": 7,
+    "learning_rate": 0.2168,
+    "subsample": 0.7312,
+    "mape": 5.824
+  },
+  "xgb_P001": {
+    "n_estimators": 300,
+    "max_depth": 2,
+    "learning_rate": 0.1034,
+    "subsample": 0.6,
+    "mape": 8.954
+  },
+  "xgb_P002": {
+    "n_estimators": 217,
+    "max_depth": 3,
+    "learning_rate": 0.0285,
+    "subsample": 0.6,
+    "mape": 8.559
+  },
+  "xgb_P003": {
+    "n_estimators": 72,
+    "max_depth": 2,
+    "learning_rate": 0.2875,
+    "subsample": 0.6,
+    "mape": 8.41
+  },
+  "xgb_P004": {
+    "n_estimators": 300,
+    "max_depth": 3,
+    "learning_rate": 0.0418,
+    "subsample": 0.7795,
+    "mape": 9.69
+  },
+  "xgb_P005": {
+    "n_estimators": 300,
+    "max_depth": 2,
+    "learning_rate": 0.0692,
+    "subsample": 0.6,
+    "mape": 9.672
+  }
+}

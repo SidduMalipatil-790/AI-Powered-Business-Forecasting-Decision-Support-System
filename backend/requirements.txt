@@ -1,0 +1,23 @@
+# ── Web Framework
+fastapi>=0.111.0
+uvicorn[standard]>=0.30.0
+python-multipart>=0.0.9
+
+# ── Data Validation
+pydantic>=2.7.0
+python-dotenv>=1.0.0
+
+# ── Database
+sqlalchemy>=2.0.0
+
+# ── Data Science
+pandas>=2.2.0
+numpy>=1.26.0
+
+# ── Machine Learning
+scikit-learn>=1.5.0
+statsmodels>=0.14.0
+xgboost>=2.0.0
+
+# ── Explainability (optional but recommended)
+shap>=0.45.0
